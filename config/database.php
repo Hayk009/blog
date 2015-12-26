@@ -55,8 +55,8 @@ return [
         'mysql' => [
             'driver'    => 'mysql',
             'host'      => 'car.pe.hu',
-            'database'  => 'u719192340_blog',
-            'username'  => 'u719192340_hayko',
+            'database'  => 'u125145619_blog',
+            'username'  => 'u125145619_hayko',
             'password'  => 'hayko009',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
